@@ -1,4 +1,4 @@
 # unreal-signal-viewer
 COMING SOON!
 
-![alt text](https://avatars2.githubusercontent.com/u/40526607?s=460&v=4)
+![alt text](https://github.com/tbillings/unreal-signal-viewer/blob/master/USV_Logo.png)
